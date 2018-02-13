@@ -1,0 +1,144 @@
+1,1,Hello,Hola
+2,1,How are you?,Cómo Estás
+3,1,good,Bueno
+4,1,bad,Mal
+5,1,ok,Ok
+6,1,I’m fine,Estoy bien
+7,1,Please,Por favor
+8,1,Thank you,Gracias
+9,1,Thank you very much,Muchas gracias
+10,1,You’re Welcome,De nada
+11,1,Goodbye,adiós
+12,1,Cheers,aclamaciones
+13,1,Excuse Me,Disculpe
+14,1,I’m Sorry,Lo siento
+15,1,What’s your name?,¿Cómo te llamas?
+16,1,My name is …,Me llamo ...
+17,1,Nice to meet you,Mucho gusto
+18,1,Where are you from,¿Dónde vives?
+19,1,I’m live in …,Vivo en ..
+20,1,How old are you?,¿Cuántos años tienes?
+21,1,I’m … years old,Tengo .. años
+22,1,What do you do for a living?,cómo te ganas la vida
+23,1,I’m a ….,Soy un/una ..
+24,1,What are your interests?,Qué te interesa
+25,1,I don’t like …,No me gusta
+26,1,I like,me gusta
+27,1,yes,Si
+28,1,no,No
+29,2,Do you speak English ?,¿Hablas inglés?
+30,2,I don’t understand,no entiendo
+31,2,I understand,entiendo
+32,2,I speak a little,hablo un poco de español
+33,2,I don't speak,No hablo español
+34,2,Could you speak a little slower please?,podría usted hablar un poco más lento por favor
+35,2,Could you write that down?,¿Podría usted escribir eso?
+36,2,Could you repeat that?,¿Podría repetir que ?
+37,2,How do you say?,Como se dice … en Espanol
+38,2,What does… mean?,Qué significa
+39,2,What time is it ?,¿Qué hora es?
+40,2,It’s five o’ clock,es cinco horas
+41,3,How much is?,cuánto es
+42,3,I would like …,Me gustaría
+43,3,Can I pay by credit card?,Puedo pagar con tarjeta de crédito
+44,3,Here you go?,Aquí tienes
+45,3,Could I see this one?,¿podría ver éste?
+46,3,What time do you open and close,¿a qué hora abrir y cerrar?
+47,3,Do you have this in small,tienes esto en un pequeño
+48,3,Do you have this in medium,tienes esto en un medio
+49,3,Do you have this in large,tienes esto en una gran
+50,3,Do you have anything cheaper,¿tienes algo más barato?
+51,3,It’s too expensive,Es demasiado caro
+52,3,I’ll give you … for it,Le daré 5 euros
+53,3,Where can I exchange money,¿Dónde puedo cambiar dinero?
+54,4,How much for a ticket to ..,Cuánto es de entradas para la ópera
+55,4,a return ticket to .. please,billete de vuelta a bognor
+56,4,Here’s my passport,Aquí está mi pasaporte
+57,4,a Bus,un autobús
+58,4,a Plane,un avión
+59,4,a ferry,una balsa 
+60,4,What time does the  … arrive,¿A qué hora el … llegar?
+61,4,What time does the .. depart,¿A qué hora …  salen?
+62,4,Which platform?,¿Qué plataforma?
+63,4,Which gate?,¿Qué puerta?
+64,4,Which terminal?,¿que terminal?
+65,4,Is the bus direct?,es el autobús directo
+66,4,Do I have to change trains?,¿Tengo que cambiar de tren?
+67,4,Is this seat taken?,¿está ocupado este asiento?
+68,4,Could you call me a taxi?,Podría usted me llame un taxi
+69,4,I’d like to go to..,me gustaría ir a
+70,4,I’d like to rent a car,me gustaría alquilar un coche
+71,4,Where could I rent a car?,¿Donde podría alquilar un coche?
+72,5,"Could I see the menu,please?",¿pude ver el menú por favor?
+73,5,a beer please,una cerveza por favor
+74,5,a coffee please,Un café por favor
+75,5,a tea please,un té por favor
+76,5,Could I get the bill?,¿podría conseguir la cuenta?
+77,5,I have an allergy to…,Soy alérgico al …
+78,5,wheat,trigo
+79,5,milk,leche
+80,5,nuts,nuez
+81,5,eggs,huevos
+82,5,That was delicious!,Estaba delicioso
+83,5,This isn't what I ordered,Esto no es lo que pedí
+84,5,Can I buy you a drink?,¿Puedo comprar una bebida?
+85,5,Let’s have another drink!,Permítanos tener otro bebe
+86,6,How do I get to..?,Cómo llegar a …
+87,6,left,izquierda
+88,6,right,derecho 
+89,6,straight on ,directamente en
+90,6,on the corner,en la esquina
+91,6,Take the first left,Tome la primera a la izquierda
+92,6,Take the second right,Tome la segunda a la derecha
+93,6,How far is ...?,¿Qué tan lejos está … ?
+94,6,Where is the closest bank?,¿Dónde está el banco mas cercano?
+95,6,Where is the  post office?,¿Dónde está la oficina de correos?
+96,6,Where is the tourist information?,¿Dónde está la información turística?
+97,6,Do you have a map?,¿Tienes un mapa?
+98,6,Can you show me on the map?,Se puede mostrar en el mapa
+99,6,Where is the UK embassy?,¿Dónde está la embajada de Reino Unido?
+100,7,How much does it cost to enter?,¿Cuánto cuesta para entrar?
+101,7,What is that building?,¿Qué es ese edificio?
+102,7,That’s a beautiful building,Que es un hermoso edificio
+103,7,That’s a beautiful cathedral,Que es una bella catedral
+104,8,I have a reservation,tengo una reserva
+105,8,Do you have any double rooms available?,¿tienes alguna habitaciones disponibles?
+106,8,Do you have any single rooms available?,¿tienes alguna habitación disponible?
+107,8,Could I see the room?,¿Podría ver el cuarto?
+108,8,I’d like to stay for … nights,Me gustaría alojarse …  noches
+109,8,Is breakfast included?,¿Está el desayuno incluido?
+110,8,Television,la Televisión
+111,8,air conditioner,el acondicionador de aire
+112,8,lamp,la lampa
+113,8,The .. in my room doesn't work properly,El/La … de mi habitación no funciona correctamente
+114,8,Could I get a different room?,¿Pude conseguir una habitación diferente?
+115,8,Is there a restaurant here?,¿hay un restaurante aquí?
+116,9,Help!,socorro
+117,9,I need a Doctor,Necesito un médico
+118,9,I need a police officer,Necesito a un policía
+119,9,Can I use your phone,¿Puedo usar su teléfono?
+120,9,Call the police!,¡Llame la policía!
+121,9,Call the ambulance,¡Llame a la ambulancia!
+122,9,Leave me alone!,déjame en paz
+123,10,One,Uno
+124,10,Two,Dos
+125,10,Three,Tres
+126,10,Four,Cuatro
+127,10,Five,Cinco
+128,10,Six,Seis
+129,10,Seven,Siete
+130,10,Eight,Ocho
+131,10,Nine,Nueve
+132,10,Ten,Diez
+133,10,Twenty,Veinte
+134,10,Thirty,Treinta
+135,10,Forty,Cuarenta
+136,10,Fifty,Cincuenta
+137,10,Sixty,Sesenta
+138,10,Seventy,Setenta
+139,10,Eighty,Ochenta
+140,10,Ninety,noventa
+141,10,One Hundred,Cien
+142,10,Two Hundred,Dos cientos
+143,10,One Thousand,mil
+144,10,Six Thousand,Seis mil

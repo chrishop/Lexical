@@ -1,0 +1,52 @@
+QUICK INSTALL
+
+I've created some scripts which automatically install the dependencies necessary to run the file
+at the end of the installation it attempts to run the file if this doesnt work please refer to the manual installation
+guide called "Manual-Install.txt"
+
+
+WINDOWS
+
+STEP 1
+Install python 3.5.3 off the python website
+on the first page of the installer make sure to TICK THE SET UP PATH BOX
+
+STEP 2
+run the install-windows.py file found unt the install folder (by double clicking it)
+it will show a message box
+
+NOW YOU HAVE INSTALLED
+you have to go into the windows folder and run the "run.py" opening and then running with IDLE
+(any other way will cause the program to crash)
+
+
+LINUX
+
+STEP 1
+find the install-linux.sh file in your file manager
+
+STEP 2
+click on it and select the run in terminal option (may have to right click and choose from options)
+a terminal window will appear
+
+STEP 3
+Enter your Password
+when the it says "INSTALLATION COMPLETE"
+you can close the box
+
+NOW YOU HAVE INSTALLED
+To run the project use the run-linux.sh (in the main folder, you may also have to run this from terminal)
+
+
+MAC
+
+STEP 1
+run the install-mac.command file by double clicking
+
+STEP 2
+wait for abit (if it needs to install xcode it may take some time)
+you also have to enter your password a couple of times
+if the installation worked correctly it should say "INSTALLATION COMPLETE"
+
+NOW YOU HAVE INSTALLED
+To run the project use the run-mac.py (by running the program in idle or by left clicking and opening with python3 launcher)

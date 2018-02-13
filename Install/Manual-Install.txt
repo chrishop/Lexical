@@ -1,0 +1,123 @@
+
+INSTALLATION
+
+
+This program runs on python 3.5.3
+It also uses the pygame and bycrypt libraries
+
+If you're reading this file my install scripts didnt work on your computer
+please follow the steps below for you system
+
+    
+
+
+
+WINDOWS
+    
+STEP 1
+
+if you don't have python3.5.3 installed on your computer you must go onto their website and download python 3.5.3
+when installing python on the first page when you install you MUST tick the box saying add PATH
+if you have not done this you must reinstall and tick this box when you reinstall
+
+
+STEP 2
+
+to install bcrypt and pygame the easiest option is to open up the command prompt
+(by typing cmd in the search bar) and pasting in this:
+  
+then :
+    
+    python -m pip install bcrypt
+
+then :
+  	
+	python -m pip install pygame
+
+STEP 3
+
+Now you have finished installing things that the program needs to run
+go to the place which you downloaded the program to
+open the project folder
+and run the "run.py" file using IDLE
+
+STEP 4 (opt)
+
+you can make a shortcut out of the run.py file and place it on your desktop so its more accessible
+
+
+
+
+
+LINUX
+    
+(assuming your using aptitude package installer)
+
+STEP 1
+
+open up the terminal and paste this code:
+
+    sudo apt-get install python3
+
+you may be required to give your password
+
+STEP 2
+
+    python3 -m pip install pygame
+    python3 -m pip install bcrypt
+
+
+STEP 3
+
+Now you have finished installing things that the program needs to run
+you will be able to run the program
+you do this by going to the directory in which language project is stored (by using cmd or a file manager):
+
+e.g.cd /home/user/LanguageProject/Project
+
+STEP 4
+
+make it executable by typing this into the terminal:
+
+    chmod a+x run.py
+
+STEP 5
+
+    now you can run the program by opening to the place where the project has been downloaded to and clicking the file
+    if a window appears click the "execute in terminal" option
+
+
+
+
+MAC
+
+STEP 1
+Install Homebrew (if you don't already have it)
+
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+STEP 2
+Install python3 (if you don't have it already)
+
+do this by typing this into the terminal:
+
+    brew install python3
+
+STEP 3
+Install bcrypt and pygame packages (if you dont have them in python3)
+
+python3 -m pip install bcrypt
+python3 -m pip install pygame
+
+STEP 4
+
+go to the /LanguageProject/Project/run.py file and run it
+either through terminal (if you know how) or right click on it and open with the python3 launcher
+(if that doesnt work use IDLE)
+
+STEP 5 (optional)
+
+if you want to run it more easily you can create a short cut
+and place it on your desktop
+
+	

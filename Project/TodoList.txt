@@ -1,0 +1,174 @@
+finish putting elements on login page/
+center function/
+find a way to select text box (just got it to hover for now)/
+make the button go to new user page/
+intergrate sql query that the page makes new users/
+password encryption/
+    created functions/
+    implemented/
+validate all data entry
+    of new user/
+    of current user/
+sql for login page/
+password box with "*"/
+
+make menu screens (ERROR when button in same position on other pages it skips pages) back buttons work but Exercise button doesnt/
+    try making it blit to screens/
+        BREAKTHROUGH GET THE BUTTON TO REGISTER THE SURFACE  AS A REQUIRMENT TO CLICK THROUGH CAN USE SELF.SURFACE OR SOMETHING/
+        GOT IT WORKING JUST NEED TO SORT OUT BACK BUTTONS ( SHOULDNT BE TOO HARD )/
+
+0login/
+    1new user page/
+
+
+    2main menu/
+        3exercise menu/
+            6refresher
+            7new words
+
+            8topicspecific
+                hello
+                conversation
+                shopping
+                transporation
+                eating
+                directions
+                sightseeing
+                accommodation
+                emergencies
+                numbers
+                    9 Topic Exercise
+                    10 error page
+
+
+        4report menu
+        5settings menu
+
+put topic id in word table/
+
+new question pages
+    page design/
+    question class
+        get_words method
+            format string so output just text/
+            make sure question dont have the same target word/
+            make sure word in question dont appear twice/
+
+
+        get_target method/
+            format string so it just output text/
+            combine with get words/
+        is_correct/
+        some sort of trigger to use in design/
+
+        if correct
+            place in words bank with the unix time stamp/
+            value of 1 for times correct/
+
+    buttonclass
+        make it so that text size can be separated from ylen of button/
+
+      Exercise class/
+        make sure no two questions are the same/
+        make an array of questionWords/
+        how do i blit this without making loads of screens ?/
+            make the function that does the text take into account the parameters e.g. refesher, new words , topic specific/
+
+take records out of it if the knowness is too low
+decide a point to refresh said table using knownness values/
+
+refresher page
+    if knowness value under 0.5 ask question/
+    refresher_question class
+        getwords() method /
+        add exceptions/check if less than 10 words known/
+        implement the exception so it redirects to another page/
+        when right/
+
+            when refresher question answered correctly add one to times correct/
+            update the unix time/
+
+           when wrong/
+            remove if times correct = 0/
+            and minus one if not , dont update time/
+
+
+
+topic page
+    make differnent topics produce differnt exercises/
+    if less than 10 make user go back/ (goes to page 2 for now)/
+
+add in error if not enough questions are going to be made/
+
+MAKE BOX BIGGER FOR ALL EXERCISES/
+
+get exercises database entries working/
+    every time right add 10/
+    at end of exercise commit to database/
+    blit the score up in the corner of the exercises/
+
+
+
+make report page
+    words known
+    graph of word id over knowness
+    graph of score over time/
+    put in axis legend/
+    show scale on the axis/
+
+make settings page
+    backround colour/
+    text colour/
+    textbox colour/
+    Delete user
+
+    change from buttons to textboxes settingsX
+
+
+make textbox questions
+
+
+
+
+
+
+
+ERRORS
+    as soon as "continue" button pressed after exercise things crash could be to do with the thing i added to catch the exercise button messaround with blocks\/\
+    "SELECT WordBankID FROM WordBank Table" , then get a random amount from there , will get rid of fetch all error/
+    when password doesnt match sort out that error/
+    refresher exercise getting questions not from word bank page /
+    AND refresher exercise not displaying words from bank/
+    refresher exercise page button crahses/
+        when i disconnect the button from the next page it doesnt work/
+        works when it connects to other pages/
+        doesnt work when correct and wrong things are taken out/
+        ITS CRASHING BECUASE NOT ENOUGH WORDS IN WORDS BANK TABLE/
+        when a new user enters does an exercise it gets rid of other users in the word bank table/
+        sometimes registers score = 0 when the core is not (on continue exercises)
+
+
+ALPHA
+
+    take out all unneccesary print statements/
+    remove unnecessesary files/
+    get font file from folder/
+        if file name not put in properly it just reverts back to defalt font/
+    get py2exe working
+    comment code
+        run.py/
+        sqlfunctions.py/
+        passwordfunct.py/
+        button.py/
+        exercise.py/
+        font.py/
+        graph.py/
+        settings.py/
+        validator.py/
+
+
+
+
+
+
+
